@@ -1,7 +1,7 @@
 # FindTheCat
 
 Requires the following librarires:
-- time
+- time ```$ install numpy ```
 - numpy
 - h5py
 - matplotlib
