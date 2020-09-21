@@ -1,13 +1,13 @@
 # FindTheCat
 
+Implemented a Deep Learning Model (Python) which has an approximate 70% success rate at recognising the particular type of cat.
+
 Requires the following librarires:
 - time 
 - numpy ```$ install numpy ```
 - h5py
 - matplotlib
 - scipy 
-
-Python program which has around 70% accuracy at recognising cats
 
 ```
 #######################
